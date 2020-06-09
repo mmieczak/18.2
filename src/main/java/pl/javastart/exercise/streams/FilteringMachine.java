@@ -16,7 +16,7 @@ public class FilteringMachine {
         return null;
     }
 
-    // Metoda powinna przekształcić tytuły na książki i zwrócić tylko te które rozpoczynają się od słowa "Gra"
+    //a Metoda powinna przekształcić tytuły na książki i zwrócić tylko te które rozpoczynają się od słowa "Gra"
     public List<Book> convertToBooksAndReturnOnlyStartingWithGra(List<String> titles) {
         return null;
     }
